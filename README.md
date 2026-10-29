@@ -12,7 +12,7 @@ I'm a graduate student in Computational Social Science at The Chinese University
 
 ## Selected Projects
 
-### Shenzhen Greenness and PM2.5
+### [Shenzhen Greenness and PM2.5 Analysis](https://github.com/RyanWang16/shenzhen-greenness-pm25)
 An exploratory, district-level analysis of vegetation and PM2.5 in Shenzhen using 2025 data.
 
 - Used Google Earth Engine to calculate satellite-based greenness indicators.
@@ -22,7 +22,7 @@ An exploratory, district-level analysis of vegetation and PM2.5 in Shenzhen usin
 
 **Tools:** Google Earth Engine, R, `sf`, `dplyr`, `ggplot2`
 
-### AI Adoption and Employment Change Across Industries in Denmark
+### [AI Use and Employment Change in Denmark](https://github.com/RyanWang16/denmark-ai-employment)
 A descriptive analysis of AI use and employment changes across Danish industries from 2023 to 2025.
 
 - Used OECD data to compare AI adoption and employment changes by industry.
